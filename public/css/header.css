@@ -1,0 +1,38 @@
+
+.container {
+    background-color: rgba(128, 128, 128, 0.288);
+    display: flex;
+    width: 15%;
+    height: 85%;
+    top: 40px;
+    left: 100px;
+}
+
+.container ul li {
+    list-style: none;
+}
+
+.container ul li button {
+    width: 100px;
+}
+
+.container2 {
+    background-color: rgba(211, 210, 210, 0.404);
+    height: 85%;
+    width: 67%;
+    top: 40px;
+    right: 100px;
+}
+
+.to-do-title {
+
+}
+
+main > h1 {
+    color: aliceblue;
+    font-size: 24px;
+}
+
+.form-check-input {
+    background-color: red;
+}
